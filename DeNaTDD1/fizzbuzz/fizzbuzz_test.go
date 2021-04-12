@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Densuke-fitness/DeNATDD/fizzbuzz"
+	"github.com/Densuke-fitness/PracticeRepo3/fizzbuzz"
 )
 
 func TestConvert(t *testing.T) {

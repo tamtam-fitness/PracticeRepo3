@@ -1,4 +1,4 @@
-module github.com/Densuke-fitness/DeNATDD
+module github.com/Densuke-fitness/PracticeRepo3
 
 go 1.15
 

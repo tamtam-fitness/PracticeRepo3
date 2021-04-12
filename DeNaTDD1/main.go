@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Densuke-fitness/DeNATDD/fizzbuzz"
+	"github.com/Densuke-fitness/PracticeRepo3/fizzbuzz"
 )
 
 func main(){
