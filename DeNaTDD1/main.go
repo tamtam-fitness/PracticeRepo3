@@ -1,6 +1,10 @@
 package main
-import "fmt"
+
+import (
+	"fmt"
+	"github.com/Densuke-fitness/DeNATDD/fizzbuzz"
+)
 
 func main(){
-	fmt.Println("Hello")
+	fmt.Println(fizzbuzz.Convert(15))
 }
